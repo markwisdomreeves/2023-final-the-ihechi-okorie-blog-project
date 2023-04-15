@@ -1,0 +1,38 @@
+
+.global-message{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    min-width: 300px;
+    border-radius: 50px;
+    color: #fff;
+    z-index: 2;
+    text-align: center;
+}
+
+.global-message.info{
+    background: #651C32;
+}
+
+.global-message.error{
+    background: #d81d1d;
+}
+
+.subscribe-error{
+    background: #931d1d;
+    border-color: #931d1d;
+}
+
+.subscribe-success{
+    background: #651C32;
+    border-color: #651C32;
+}
+
+/* Categories Page Style */
+.categories-col .block-21 .text{
+    width: 100%;
+}
+
+.categories-col .category_heading a {
+    font-size: 1.7rem !important;
+}

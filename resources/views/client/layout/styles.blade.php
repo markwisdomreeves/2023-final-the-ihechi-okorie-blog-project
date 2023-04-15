@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="{{ asset('front_dist/css/animate.css') }}" />
+<link rel="stylesheet" href="{{ asset('front_dist/css/bootstrap.css') }}" />
+<link rel="stylesheet" href="{{ asset('front_dist/css/flexslider.css') }}" />
+<link rel="stylesheet" href="{{ asset('front_dist/css/icomoon.css') }}" />
+<link rel="stylesheet" href="{{ asset('front_dist/css/magnific-popup.css') }}" />
+<link rel="stylesheet" href="{{ asset('front_dist/css/owl.carousel.min.css') }}" />
+<link rel="stylesheet" href="{{ asset('front_dist/css/owl.theme.default.min.css') }}" />
+<link rel="stylesheet" href="{{ asset('front_dist/css/style.css') }}" />
+<link rel="stylesheet" href="{{ asset('custom_css/mystyle.css') }}" />
