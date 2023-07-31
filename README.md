@@ -1,3 +1,3 @@
-### This is Laravel project and it was developed for a personal blogger
+### Advanced blog with Admin Dashboard functionalities developed with Laravel.
 
 ### https://theihechiokorieblog.com
