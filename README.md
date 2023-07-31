@@ -1,3 +1,3 @@
-### Advanced blog with Admin Dashboard functionalities developed with Laravel.
+### A Complete CMS Blog developed with Laravel.
 
 ### https://theihechiokorieblog.com
